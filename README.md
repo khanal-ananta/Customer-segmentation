@@ -5,14 +5,23 @@ This data set contains data for market basket analysis.
 The data contains:
 
   Customer ID
+  
   Unique ID assigned to the customer
+  
   Gender
+  
   Gender of the customer
+  
   Age
+  
   Age of the customer
+  
   Annual Income
+  
   Annual Income of the customee
+  
   Spending Score
+  
   Score assigned by the mall based on customer behavior and spending nature
   
   
